@@ -30,6 +30,7 @@ src/             Reusable Python code (added as the project develops)
 ## Progress
 
 * [x] Created GitHub repository
+* [x] understand the problem and come up with a basic plan 
 * [ ] Explore dataset structure
 * [ ] Visualize 3D microscopy data
 * [ ] Build baseline model
