@@ -30,7 +30,26 @@ src/             Reusable Python code (added as the project develops)
 ## Progress
 
 * [x] Created GitHub repository
-* [x] understand the problem and come up with a basic plan 
+* [x] understand the problem and come up with a basic plan
+* [x]  Day 1: Dataset exploration
+
+Create a Kaggle Notebook.
+
+Goals:
+
+□ Access competition data
+
+□ Find one .zarr sample
+
+□ Find its matching .geff
+
+□ Read Zarr metadata
+
+□ Print image shape
+
+□ Load one timepoint
+
+□ Visualize one Z slice
 * [ ] Explore dataset structure
 * [ ] Visualize 3D microscopy data
 * [ ] Build baseline model
