@@ -6,7 +6,7 @@ A deep learning and computer vision project focused on **3D cell detection and m
 
 This project explores automated cell tracking during biological development using volumetric microscopy images. The objective is to detect cells across successive timepoints and establish temporal correspondences between detections to construct cell-tracking graphs.
 
-The project was developed as part of a semester-long deep learning effort and a Kaggle cell-tracking competition.
+The project was developed as part of a Kaggle cell-tracking competition.
 
 ## Objectives
 
